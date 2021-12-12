@@ -32,6 +32,7 @@ function App() {
        <Route path='/quiz/currentaffairs' element={user ?<Currentaffairs/>:<Register/>}/>
        <Route path='/quiz/heritage' element={user ?<Heritages/>:<Register/>}/>
        <Route path='/results' element={user ?<Results/>:<Register/>}/>
+       <Route path='/logout' element={<Login/>}/>
        
        </Routes>
        </Router>

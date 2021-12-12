@@ -5,7 +5,7 @@ return (
     <>
     <div className="home">
     <h2 className="intro">Test your Knowledge</h2>
-    <img className="introimg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSt8jhlONdgIiiiPyo8m86bKvymOv2tnUDA&usqp=CAU" alt="Quiz" />
+    <img className="introimg" src="https://planetcode.in/assets/images/Quiz-Background.jpg" alt="Quiz" />
     </div>
     <div className="quizType">
     <div class="row">

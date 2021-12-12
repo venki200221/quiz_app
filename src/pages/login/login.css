@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     justify-items: center;
-    background-image: url("https://t4.ftcdn.net/jpg/02/71/12/01/360_F_271120192_ZDT2FCxH94akiIsOHwVULWnbNzi8Oagn.jpg");
+    background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
     background-size: cover;
     object-fit: cover;
     background-position: center;
@@ -34,7 +34,7 @@
 .loginButton{
     margin-top: 20px;
     cursor: pointer;
-    background-color: lightcoral;
+    background-color: rgb(2, 1, 1);
     border: none;
     color: white;
     border-radius: 10px;

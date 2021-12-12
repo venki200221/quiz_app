@@ -10,8 +10,9 @@
 }
 
 .registerTitle{
-    font-size: 50px;
+   font-size: 50px;
    font-weight:500;
+   color:rgb(rgb(172, 57, 57), rgb(47, 141, 47), rgb(59, 59, 138));
 }
 .registerForm{
     margin-top: 20px;

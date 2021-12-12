@@ -28,7 +28,7 @@ function Topbar(){
         <a class="nav-link" href="login">LOGIN</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="logout">LOGOUT</a>
+        <a class="nav-link" href="login">LOGOUT</a>
       </li>
     </ul>
     

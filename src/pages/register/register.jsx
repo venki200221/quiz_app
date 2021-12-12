@@ -26,9 +26,7 @@ export default function Register(){
            />
            <button className="registerButton" type="submit">Register</button>
          </form>
-         <button className="loginregisterButton">
-           Login
-         </button>
+        
          
         </div>
         </>

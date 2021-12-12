@@ -13,19 +13,19 @@ export default function Quizes(){
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" style={{height:"500px"}} src="https://startupbonsai.com/wp-content/uploads/2020/07/Best-Online-Quiz-Makers-Social.jpg" alt="First slide" />
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-sm-block">
        <h5>Quiz</h5>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100"  style={{height:"500px"}} src="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1265x442:1267x440)/origin-imgresizer.eurosport.com/2016/03/01/1805849-38114271-2560-1440.jpg" alt="Second slide" />
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-sm-block">
       <a href="/quiz/sports" style={{color:"inherit"}}><h5>sports Quiz</h5></a>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" style={{height:"500px"}} src="https://asset-cdn.learnyst.com/assets/schools/3336/courses/20805/Bundles_Subs_05_xd18zr.png" alt="Third slide" />
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-sm-block">
       <a href="/quiz/currentaffairs" style={{color:"inherit"}}><h5>Current affairs quiz</h5></a>
       </div>
     </div>
